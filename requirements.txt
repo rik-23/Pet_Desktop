@@ -1,0 +1,7 @@
+pillow
+pystray
+pygame
+numpy
+pyttsx3
+requests
+pynput

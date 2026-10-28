@@ -1,0 +1,39 @@
+{
+  "name": "小企",
+  "hunger": 50,
+  "mood": "normal",
+  "x": 1024,
+  "y": 216,
+  "autostart": false,
+  "tts": true,
+  "bgm": true,
+  "weather": true,
+  "volume": 0.64,
+  "achievements": [
+    "night_sleep",
+    "first_feed",
+    "multi",
+    "game_win",
+    "feed_10",
+    "self_play",
+    "self_sing",
+    "follow",
+    "self_summon",
+    "diary",
+    "skin_change",
+    "poke_10",
+    "feed_50",
+    "hide_seek"
+  ],
+  "stats": {
+    "feed": 82,
+    "poke": 11,
+    "game_win": 2,
+    "chat": 8
+  },
+  "pets": 1,
+  "skin": "penguin",
+  "follow": false,
+  "hide_enabled": true,
+  "auto_behavior": true
+}
